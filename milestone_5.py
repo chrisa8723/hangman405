@@ -54,6 +54,6 @@ def play_game(word_list):
             print('Congratulations. You won the game!')
             break
 
-# For testing the play_game function
+
 word_list_for_testing = ["Mango", "Pineapple", "Orange", "Apple", "Banana"]
 play_game(word_list_for_testing)
